@@ -29,3 +29,11 @@ _sass/@primer/css/**/*.md
 
 # action
 action.changelog.md
+
+
+# IntelliJ
+.idea/
+
+
+# Yarn
+yarn.lock
